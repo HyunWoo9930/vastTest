@@ -12,8 +12,9 @@
 
    위의 명령어를 실행하고, 
 
-   - 아래의 명령어를 입력해서, npm install을 실행한다. (node.js 버전은 10으로 설정해야함.)
-
+   아래의 명령어를 입력해서, npm install을 실행한다. (node.js 버전은 10으로 설정해야함.)
+   출처 : https://github.com/MailOnline/videojs-vast-vpaid
+   
      ```
      $ cd videojs-vast-vpaid
      $ npm install
